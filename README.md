@@ -1,4 +1,4 @@
 # Double-Trouble
 
 # History
-(here)[./history]
+(here)[./history/scene-entry.md]
