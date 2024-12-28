@@ -1,5 +1,5 @@
 #!/bin/bash
-BIN="start"
+BIN="double-trouble"
 DSRC="src/"
 LUA=0
 LINUXSTAT=1 # 1 static build, 0 not
